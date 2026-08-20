@@ -26,7 +26,7 @@ export default function  Navbar(){
 
                 <div className="nav-box   h-16 w-56 flex gap-4 justify-center items-center mr-4">
                     <div className="search">
-                        <img src="./svg/search.svg" className="h-6 w-6" alt="" />
+                        <img src="/Food-website/svg/search.svg" className="h-6 w-6" alt="" />
                     </div>
                     <div className="btt">
                   
