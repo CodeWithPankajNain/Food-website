@@ -8,7 +8,7 @@ export default function  Navbar(){
             <div className="nav nav-1 h-24 bg-white border flex justify-between items-center">
                 <div className="nav-box  h-12 w-60 ">
                     <div className="fork flex gap-3">
-                       <div><img src="./svg/spoon-fork.svg" className="fork h-10 w-10"  alt="" /></div>
+                       <div><img src="/Food-website/svg/spoon-fork.svg" className="fork h-10 w-10"  alt="" /></div>
                        <p className="text-[36px] font-bold">Sar<span className="text-red-500 py-2">ab</span></p>
                     </div>
                 </div>
