@@ -31,7 +31,7 @@ export default function  Navbar(){
                     <div className="btt">
                   
                     <button className="h-10 w-28 cursor-pointer hover:opacity-100 text-center border opacity-90 bg-linear-to-bl from-red-400 to-red-700 rounded-[7px] text-white font-semibold shadow-[0_2px_8px_rgb(255, 220, 220)] ">
-                        <span> <img src="/svg/hand.svg" className="h-4 w-4 inline-block invert "  alt="" /></span>
+                        <span> <img src="/Food-website/svg/hand.svg" className="h-4 w-4 inline-block invert "  alt="" /></span>
                         &nbsp; Order Now</button>
                     </div>
                 </div>
