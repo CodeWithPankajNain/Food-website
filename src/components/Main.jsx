@@ -21,7 +21,7 @@ export default function Main(props) {
    </div>
    <div className="main-2 h-[400px] w-[400px] mt-24 border mr-16 rounded-[50%] ">
 
- <img src="./Food-website/images/burger.jpg" alt="" className=" burger object-contain h-[400px] w-[400px] rounded-[50%]" />
+ <img src="/Food-website/images/burger.jpg" alt="" className=" burger object-contain h-[400px] w-[400px] rounded-[50%]" />
 
     <div className="card-1 absolute z-4 bg-white top-50 h-18 border text-center rounded-2xl w-32">
        <h1 className="font-extrabold"><span><img src="/svg/fire.svg" alt="" className="inline-block h-4 w-4"/></span>Hot Meal</h1>
