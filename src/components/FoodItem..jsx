@@ -28,7 +28,7 @@ export default  function FoodItem(){
 <div className="food-item">
      <div className="food food-1 flex justify-center items-center flex-col">
          <div className="b1 h-16 w-16 ">
-             <img src="/images/burger.jpg" alt="" />
+             <img src="/Food-website/images/burger.jpg" alt="" />
          </div>
          <h1>Burger</h1>
          <p> 24 Items</p>
